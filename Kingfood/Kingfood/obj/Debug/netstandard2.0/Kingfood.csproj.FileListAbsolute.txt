@@ -1,0 +1,13 @@
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.deps.json
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.dll
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.pdb
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.csprojAssemblyReference.cache
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.AssemblyInfo.cs
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.dll
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.pdb
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
+C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\Pedido.xaml.g.cs
