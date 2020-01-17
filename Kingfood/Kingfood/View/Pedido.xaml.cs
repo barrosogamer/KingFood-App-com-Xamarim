@@ -68,9 +68,16 @@ namespace Kingfood.View
             }
         }
 
-        private double total;
 
-        
+        private string totalFormat="Total:0";
+
+        public string TotalFormat { get { return totalFormat; } set {
+                totalFormat = value;
+                OnPropertyChanged();
+                OnPropertyChanged(nameof(TotalFormat));
+
+            } }
+        private double total;
         public double Total
         {
             get { return total; }
@@ -78,7 +85,13 @@ namespace Kingfood.View
 
                 OnPropertyChanged();
                 OnPropertyChanged(nameof(Total));
+                TotalFormatado();
             }
+        }
+
+        public string TotalFormatado()
+        {
+            return TotalFormat=String.Format("Total:{0}",total);
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
@@ -92,7 +105,7 @@ namespace Kingfood.View
         {
             double value = e.NewValue;
             QtdCoxinha = value;
-            Total = QtdBolinho+QtdCoxinha+QtdEsfirra+QtdKibe;
+             Total= QtdBolinho+QtdCoxinha+QtdEsfirra+QtdKibe;
         }
         
 
