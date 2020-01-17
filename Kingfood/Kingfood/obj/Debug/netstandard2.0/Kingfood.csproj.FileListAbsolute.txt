@@ -11,3 +11,16 @@ C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfoo
 C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.pdb
 C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
 C:\Projetos Pessoais\Kingfood\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\Pedido.xaml.g.cs
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.deps.json
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.dll
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.pdb
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.csprojAssemblyReference.cache
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\Pedido.xaml.g.cs
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.csproj.CoreCompileInputs.cache
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.AssemblyInfoInputs.cache
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.AssemblyInfo.cs
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.dll
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.pdb

@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood.Android\\Kingfood.Android.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood.Android\\Kingfood.Android.csproj",
       "projectName": "Kingfood.Android",
-      "projectPath": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood.Android\\Kingfood.Android.csproj",
+      "projectPath": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood.Android\\Kingfood.Android.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood.Android\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -826,8 +826,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood\\Kingfood.csproj": {
-              "projectPath": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood\\Kingfood.csproj"
+            "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood\\Kingfood.csproj": {
+              "projectPath": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood\\Kingfood.csproj"
             }
           }
         }

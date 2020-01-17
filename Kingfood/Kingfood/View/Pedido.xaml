@@ -4,6 +4,7 @@
              Title="Pedido"
              x:Class="Kingfood.View.Pedido">
     <ContentPage.Content>
+        <StackLayout>
         <StackLayout Orientation="Horizontal">
             <Label Text="Coxinha"></Label>
             <Stepper Maximum="100"
@@ -11,7 +12,36 @@
                  HorizontalOptions="Center"
                  ValueChanged="Stepper_ValueChanged"/>
             <Label Text="{Binding QtdCoxinha}"></Label>
-            <Label Text="{Binding TotalFormatado}"></Label>
+            
+        </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Esfirras"></Label>
+                <Stepper Maximum="100"
+                 Increment="1"
+                 HorizontalOptions="Center"
+                 ValueChanged="Stepper_ValueChanged_1"/>
+                <Label Text="{Binding QtdEsfirra}"></Label>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Bolinhos de Queijo"></Label>
+                <Stepper Maximum="100"
+                 Increment="1"
+                 HorizontalOptions="Center"
+                 ValueChanged="Stepper_ValueChanged_2"/>
+                <Label Text="{Binding QtdBolinho}"></Label>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Kibes"></Label>
+                <Stepper Maximum="100"
+                 Increment="1"
+                 HorizontalOptions="Center"
+                 ValueChanged="Stepper_ValueChanged_3"/>
+                <Label Text="{Binding QtdKibe}"></Label>
+
+            </StackLayout>
+            <Label Text="{Binding Total}"></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

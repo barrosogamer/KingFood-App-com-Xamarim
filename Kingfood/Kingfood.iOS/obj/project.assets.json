@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood.iOS\\Kingfood.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood.iOS\\Kingfood.iOS.csproj",
       "projectName": "Kingfood.iOS",
-      "projectPath": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood.iOS\\Kingfood.iOS.csproj",
+      "projectPath": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood.iOS\\Kingfood.iOS.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood.iOS\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -745,8 +745,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood\\Kingfood.csproj": {
-              "projectPath": "C:\\Projetos Pessoais\\Kingfood\\Kingfood\\Kingfood\\Kingfood.csproj"
+            "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood\\Kingfood.csproj": {
+              "projectPath": "C:\\Users\\gabri\\KingFood-App-com-Xamarim\\Kingfood\\Kingfood\\Kingfood.csproj"
             }
           }
         }
