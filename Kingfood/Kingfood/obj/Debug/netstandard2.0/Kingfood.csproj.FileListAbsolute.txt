@@ -24,3 +24,4 @@ C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.dll
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\Kingfood.pdb
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\obj\Debug\netstandard2.0\View\PedidoLayout.xaml.g.cs

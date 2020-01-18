@@ -207,6 +207,10 @@ C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\a
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\res\drawable\coxinha.png
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\res\drawable\bolinho.jpg
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\res\drawable\esfirra.jpg
+C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\res\drawable\kibe.jpg
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood\bin\Debug\netstandard2.0\Kingfood.dll
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\bin\Debug\Kingfood.dll.mdb
 C:\Users\gabri\KingFood-App-com-Xamarim\Kingfood\Kingfood.Android\obj\Debug\81\linksrc\Kingfood.dll.mdb

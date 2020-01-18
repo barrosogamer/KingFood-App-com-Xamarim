@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Kingfood.ViewModel"
+             x:Class="Kingfood.View.PedidoLayout">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Column="0" Grid.Row="0" Text="Coxinha" FontSize="20" Margin="5"  VerticalTextAlignment="Center" HorizontalOptions="Start"></Label>
+                <Image Grid.Column="1" Grid.Row="0" Source="coxinha.png"></Image>
+                <Stepper Grid.Column="2" Grid.Row="0" Maximum="100"
+                 Increment="1"
+                 ValueChanged='Stepper_ValueChanged' Margin="5" HorizontalOptions="EndAndExpand" VerticalOptions="Center" />
+                <Label Grid.Column="3" Grid.Row="0" Text="{Binding QtdCoxinha}" FontSize="20" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center" ></Label>
+
+
+
+                <Label Grid.Column="0" Grid.Row="1" Text="Esfirra" FontSize="20" Margin="5"  VerticalTextAlignment="Center" HorizontalOptions="Start"></Label>
+                <Image Grid.Column="1" Grid.Row="1" Source="esfirra.jpg"></Image>
+                <Stepper Grid.Column="2"  Grid.Row="1" Maximum="100"
+                 Increment="1"
+                 ValueChanged="Stepper_ValueChanged_1" Margin="5" HorizontalOptions="End" VerticalOptions="Center" />
+                <Label Grid.Column="3" Grid.Row="1" Text="{Binding QtdEsfirra}" FontSize="20" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center" ></Label>
+
+                <Label Grid.Column="0" Grid.Row="2" Text="Bolinho de Queijo" FontSize="20" Margin="5"  VerticalTextAlignment="Center" HorizontalOptions="Start"></Label>
+                <Image Grid.Column="1" Grid.Row="2" Source="bolinho.png"></Image>
+                <Stepper Grid.Column="2" Grid.Row="2" Maximum="100"
+                 Increment="1"
+                 ValueChanged='Stepper_ValueChanged_2' Margin="5" HorizontalOptions="EndAndExpand" VerticalOptions="Center" />
+                <Label Grid.Column="3" Grid.Row="2" Text="{Binding QtdBolinho}" FontSize="20" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center" ></Label>
+
+                <Label Grid.Column="0" Grid.Row="3" Text="Kibe" FontSize="20" Margin="5"  VerticalTextAlignment="Center" HorizontalOptions="Start"></Label>
+                <Image Grid.Column="1" Grid.Row="3" Source="kibe.png"></Image>
+                <Stepper Grid.Column="2" Grid.Row="3" Maximum="100"
+                 Increment="1"
+                 ValueChanged='Stepper_ValueChanged_3' VerticalOptions="Center" HorizontalOptions="EndAndExpand" />
+                <Label Grid.Column="3" Grid.Row="3" Text="{Binding QtdKibe}" FontSize="20" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center" ></Label>
+
+
+
+            </Grid>
+            <Label FontSize="40" HorizontalOptions="EndAndExpand" Margin="20" FontAttributes="Bold" Text="{Binding TotalFormat}">
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

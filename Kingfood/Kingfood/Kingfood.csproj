@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="View\Pedido.xaml">
+    <EmbeddedResource Update="View\PedidoLayout.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
